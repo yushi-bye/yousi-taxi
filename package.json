@@ -1,10 +1,9 @@
 {
-  "name": "yousi-taxi-v1",
+  "name": "yousi-taxi-linepay",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
+    "build": "vite build"
   },
   "dependencies": {
     "react": "^18.2.0",
