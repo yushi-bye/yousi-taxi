@@ -1,0 +1,15 @@
+{
+  "name": "Yousi \u53eb\u8eca",
+  "short_name": "Yousi",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FACC15",
+  "theme_color": "#FACC15",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
